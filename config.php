@@ -21,11 +21,11 @@ $pageLink['Online Events'] = 'onlinevents.php';
 
 
 /*BACKGROUND OPTIONS*/
-$enableBackgroundImg = false; // set false for only backgroundColor, note that a background image can cause that the slideanimations are not smooth!! recommend to NOT use a background image!
-$backgroundImg = 'img/bg/green.png'; // your background image path
-$backgroundColor =  '#310C31';//'#260930'; // you MUST fill in background-color that has about the same color as your background image, to prevent flickering!
+$enableBackgroundImg = false; 
+$backgroundImg = 'img/bg/green.png'; 
+$backgroundColor =  '#310C31';//'#260930'; 
 
-/*YOUR LOGIN FOR ADMIN SECTION, access it on http:/yoursite.com/admin/ */
+
 $adminLogin = 'yourusername';
 $adminPassword = 'yourpassword';
 
