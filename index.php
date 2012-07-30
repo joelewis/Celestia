@@ -70,7 +70,7 @@ if(isset($_GET['_escaped_fragment_'])){ /* If Google is crawling our pages */
 		$links .= "<a href=#!".str_replace(" ","_",$i).">".$i."</a> | ";
 	}
 
-	$links .= "<a href='http://joecloudy.co.cc</a>";
+	$links .= "<a href='http://joecloudy.co.cc>#!joecloudy</a>";
 }else{$bot = false;}
 
 ?>

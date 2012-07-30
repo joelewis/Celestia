@@ -1,5 +1,3 @@
-/* METRO UI TEMPLATE v2.0.0
-/* Copyright 2012 Thomas Verelst, http://metro-webdesign.info
 
 /*Will be called if we want to show the homepage with tile-pages */
 prepareShowHome=function(){ /*do the fades*/

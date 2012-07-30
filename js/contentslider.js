@@ -1,4 +1,4 @@
- /* Copyright 2012 Thomas Verelst, http://metro-webdesign.info */
+
 $(document).ready(function(){
 	$(".sliderWrapper").each(function(){
 		$this = $(this);

@@ -1,5 +1,3 @@
-/* METRO UI TEMPLATE v2.0.0
-/* Copyright 2012 Thomas Verelst, http://metro-webdesign.info
 
 /* Init some handy vars */
 tileGroupCount = tileGroupTitles.length;

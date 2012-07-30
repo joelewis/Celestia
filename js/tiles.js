@@ -8,7 +8,7 @@ tiles = function(){ /*Insert your own tiles here*/
 	tileLive(0,0,2,3,1,'#669900','external:http://www.w3schools.com/tags/ref_colorpicker.asp','Latest Updates','','','','',3000,'Online Photography guidelines goes public','Rules for Web Designing changes...',"Click here to view full update-log","","");
 	
 	/*GROUP2: Some tilse */
-/*	tileSlideshow(1,0,0,2,2,'','','Slideshow',4000,'img/bg/img1.png','img/bg/img2.jpg','img/bg/img3.jpg','','',"noClick"); // we add a noClick class to let the user know there's no link */
+
 	tileTitleText(1,0,0,2,2,'#336699','Paper Presentation','Paper Presentation','Submit your Papers and Win exciting Prizes');
 	tileTitleText(1,2,0,2,1,'#CC3300','Technical Events','TopCoders','Show-Off your coding passion and share our excitement!');
 	tileTitleText(1,2,1,2,1,'#FF9900','Technical Events','Web Designing','We Give you the Website Content, You Design the Website with the power of CSS3'); 

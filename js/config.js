@@ -1,7 +1,4 @@
-/* METRO UI TEMPLATE v2.0.0
-/* Copyright 2012 Thomas Verelst, http://metro-webdesign.info
 
-/*GENERAL SETTINGS VARS */
 scale = 135; //Size of tiles 
 tileSpace = 10; //Space between tiles
 tileGroupSpace = 800 //Space between the first elements of groups of tiles on the homepage.
@@ -12,7 +9,7 @@ hideSpeed = 400; //how fast should the content fade out when switching pages
 
 jQuery.fx.interval=25; // Smoothness of effects, higher = less smooth & less CPU utilization. Too low can be choppy!
 
-/*PAGES information: EVERY page on your site that must be opened with the framework must be included here, see tutorial for more information */
+/*PAGES information: EVERY page on your site that must be opened with the framework must be included here */
 pageLink= new Array(); /* the index of pageLink MUST be the pagename (like it will be shown in the titlebar)*/
 pageLink['A new page to test'] = 'mypage.php';
 pageLink['Home'] = 'home.php';
